@@ -1,9 +1,9 @@
 {
-  "name": "PigGame",
+  "name": "Pig-Game",
   "version": "1.0.0",
   "description": "Pig Game",
   "main": "index.js",
-  "homepage": "https://ArturGolon.github.io/piggame",
+  "homepage": "https://ArturGolon.github.io/pig-game",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
