@@ -1,0 +1,16 @@
+{
+  "name": "PigGame",
+  "version": "1.0.0",
+  "description": "Pig Game",
+  "main": "index.js",
+  "homepage": "https://ArturGolon.github.io/piggame",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Artur Golon",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.11.0"
+  }
+}
